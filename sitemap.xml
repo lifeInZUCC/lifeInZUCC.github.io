@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://lifeinzucc.github.io/</loc>
-     <lastmod>2020-04-02</lastmod>
+     <lastmod>2020-04-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://lifeinzucc.github.io/about/</loc>
-     <lastmod>2020-04-02</lastmod>
+     <lastmod>2020-04-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://lifeinzucc.github.io/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/Readme/</loc>
+     <lastmod>2020-04-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://lifeinzucc.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Readme/</loc>
-     <lastmod>2020-04-02</lastmod>
+     <lastmod>2020-04-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://lifeinzucc.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/resource/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82/</loc>
-     <lastmod>2020-04-02</lastmod>
+     <lastmod>2020-04-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://lifeinzucc.github.io/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/resource/%E7%BD%91%E7%BB%9C%E5%B1%82%28%E4%B8%80%29/</loc>
-     <lastmod>2020-04-02</lastmod>
+     <lastmod>2020-04-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://lifeinzucc.github.io/example/admonition/</loc>
-     <lastmod>2020-04-02</lastmod>
+     <lastmod>2020-04-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://lifeinzucc.github.io/example/codehilite/</loc>
-     <lastmod>2020-04-02</lastmod>
+     <lastmod>2020-04-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://lifeinzucc.github.io/example/others/</loc>
-     <lastmod>2020-04-02</lastmod>
+     <lastmod>2020-04-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
