@@ -1309,6 +1309,8 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><p>24 * 0.1Gbps * 2(全双工) + 2 * 1Gbps * 2(全双工) = 8.8Gbps。</p>
+</details>
 <h3 id="10osi________">10.在OSI的七层模型中，集线器工作在________。<a class="headerlink" href="#10osi________" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1365,6 +1367,8 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><p>100BASE-TX使用 <mark>2对UTP5类线</mark> 或 <mark>屏蔽双绞线STP</mark> 。</p>
+</details>
 <h3 id="12________">12.以太网数据帧最大长度是________字节。<a class="headerlink" href="#12________" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1392,6 +1396,8 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><p>1500B （数据字段最大长度） + 18B （首部加尾部的固定长度） = 1518B</p>
+</details>
 <h3 id="13ieee________">13.IEEE帧格式中的帧开始定界符的比特序列是________。<a class="headerlink" href="#13ieee________" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1419,6 +1425,8 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><p>帧开始定界符的比特序列为1字节，值为10101011，其中最后两个1让接收方能够识别中间的 0 和 1 交替模式，进而同步并检查到数据开头。</p>
+</details>
 <h3 id="14ieee-8023________bit">14.IEEE 802.3标准规定的以太网的物理地址长度是________bit。<a class="headerlink" href="#14ieee-8023________bit" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1446,6 +1454,8 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><p>物理地址即MAC地址，6字节，即48bit。</p>
+</details>
 <h3 id="15mac________">15.计算机在局域网络上使用的硬件地址也称为MAC地址，这是因为________。<a class="headerlink" href="#15mac________" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1473,6 +1483,8 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><p>MAC(Media Access Control)地址是媒体存取控制位址，也称为局域网地址，MAC位址，以太网地址或物理地址。</p>
+</details>
 <h3 id="16vlanvlan________">16.VLAN在现代组网技术中占有重要地位，同一个VLAN中的两台主机________。<a class="headerlink" href="#16vlanvlan________" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1500,6 +1512,8 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><p>VLAN信息可以跨越多个交换机，而多台路由其实相当于有多个网络了，VLAN是同一个网络内的概念，不同网络的VLAN是不同的。</p>
+</details>
 <h3 id="17mac________">17.以太网使用的MAC子层协议是________。<a class="headerlink" href="#17mac________" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1527,6 +1541,23 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><div class="admonition fail">
+<p class="admonition-title">A</p>
+<p>PPP协议是用来同步调制连接的数据链路层协议。</p>
+</div>
+<div class="admonition fail">
+<p class="admonition-title">B</p>
+<p>TCP/IP协议是指能够在多个不同网络间实现信息传输的协议簇。</p>
+</div>
+<div class="admonition fail">
+<p class="admonition-title">C</p>
+<p>X.25协议是一个广泛使用的协议，面向计算机的数据通讯网。</p>
+</div>
+<div class="admonition success">
+<p class="admonition-title">D</p>
+<p>CSMA/CD是IEEE 802.3使用的一种媒体访问控制方法。从逻辑上可以划分为两大部分：数据链路层的媒体访问控制子层（MAC）和物理层。</p>
+</div>
+</details>
 <h3 id="184______">18.以下对于4个主要的媒体接入控制协议标准的描述中，错误的是______。<a class="headerlink" href="#184______" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1554,6 +1585,23 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><div class="admonition success">
+<p class="admonition-title">A</p>
+<p>正确。</p>
+</div>
+<div class="admonition success">
+<p class="admonition-title">B</p>
+<p>正确。</p>
+</div>
+<div class="admonition fail">
+<p class="admonition-title">C</p>
+<p>IEEE 802.15工作组致力于WPAN(Wireless Personal Area Network)标准化，即定义无线个人局域网的标准。</p>
+</div>
+<div class="admonition success">
+<p class="admonition-title">D</p>
+<p>正确。</p>
+</div>
+</details>
 <h3 id="19osirm________">19.二层交换机工作在OSI/RM的________。<a class="headerlink" href="#19osirm________" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1581,6 +1629,8 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><p>二层交换机工作于OSI模型的第2层（数据链路层），故而称为二层交换机。</p>
+</details>
 <h3 id="20ip38llc________">20.一个通过以太网传送的IP分组有38字节长，其中包含所有的头部，如果没有使用LLC的话，以太网帧中是否需要填补字节，如需要则需填补多少字节?________<a class="headerlink" href="#20ip38llc________" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1608,6 +1658,8 @@
 </tr>
 </tbody>
 </table>
+<details class="info"><summary>参考解析</summary><p>数据字段最短为46位，不够需要填补字节，46B - 38B = 8B，即本题需要填补8字节。</p>
+</details>
                 
                   
                 
@@ -1617,7 +1669,7 @@
                   <div class="md-source-date">
                     <small>
                       
-                        最后更新: 2020年4月3日
+                        最后更新: 2020年4月4日
                       
                     </small>
                   </div>
