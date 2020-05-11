@@ -200,22 +200,6 @@
      <lastmod>2020-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://lifeinzucc.github.io/help/tools/</loc>
-     <lastmod>2020-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://lifeinzucc.github.io/help/git/</loc>
-     <lastmod>2020-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://lifeinzucc.github.io/help/exercises-manager/quickstart/</loc>
-     <lastmod>2020-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://lifeinzucc.github.io/help/exercises-manager/details/</loc>
-     <lastmod>2020-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
      <loc>https://lifeinzucc.github.io/help/markdown/admonition/</loc>
      <lastmod>2020-05-11</lastmod>
      <changefreq>daily</changefreq>
@@ -225,6 +209,30 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://lifeinzucc.github.io/help/markdown/others/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://lifeinzucc.github.io/help/tools/git/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://lifeinzucc.github.io/help/tools/package-manager/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://lifeinzucc.github.io/help/tools/vscode/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://lifeinzucc.github.io/help/tools/cli/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://lifeinzucc.github.io/help/exercises-manager/quickstart/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://lifeinzucc.github.io/help/exercises-manager/details/</loc>
      <lastmod>2020-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
